@@ -2,7 +2,7 @@
 
 A Java utility for organizing osu! beatmap sets by separating each difficulty into its own folder with its associated audio and background files.
 
-This is particularly useful for maps, such as practice sets, that feature many seperate audios/songs within them.
+This is particularly useful for maps, such as practice sets, that feature many separate audio/songs within them.
 
 ## Overview
 
